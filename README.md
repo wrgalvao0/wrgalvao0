@@ -1,5 +1,5 @@
 ## Olá, eu sou Warley Galvão 👋😊
-- 🧑‍💻 Full Stack
+- 🧑‍💻 Engenheiro da Computação
 - 🌱 Atualmente cursando Pós - Graduação em Desenvolvimento Full-Stack e Cloud Computing
 - 📞 (94) 99259-7464
 - ✉️ warleygalvao61@gmail.com
